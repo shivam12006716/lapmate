@@ -1,4 +1,4 @@
-
+import Link from 'next/link'
 import React from 'react'
 const page = () => {
   return (
@@ -10,7 +10,7 @@ const page = () => {
         <button className='w-60 border border-gray-950  hover:bg-gray-950 hover:text-slate-300 duration-300 rounded-sm cursor-not-allowed'>Login</button>
       </div>
       <div className='mt-5 text-gray-500 cursor-pointer'>
-        Continue With Demo Account 
+       <Link href='/home'> Continue With Demo Account </Link>
       </div>
     </div>
     
