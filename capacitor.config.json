@@ -1,0 +1,8 @@
+{
+  "appId": "com.nissshh.lapmate",
+  "appName": "lapmate",
+  "webDir": "out",
+  "server": {
+    "androidScheme": "https"
+  }
+}

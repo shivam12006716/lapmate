@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: 'default';
-  src: url('./default.woff');
+  src: url('./default.ttf');
 }
 *{
   font-family: 'default';
